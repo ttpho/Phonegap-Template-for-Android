@@ -13,7 +13,9 @@ How to use in Eclipse
 
 -Install
 Download and copy to dic android-sdk: .../sdk/tools/templates/activities/...
+
 -Use it
+Using via Android Activity Template
 
 https://www.youtube.com/watch?v=Gz3i8kcmvws
 =========================
